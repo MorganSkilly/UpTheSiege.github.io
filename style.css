@@ -1,0 +1,64 @@
+body
+{
+    background-color: #ff9100;
+}
+
+h5
+{
+    color: #ffffff;
+}
+
+h4
+{
+    color: #ffffff;
+    text-align: center;
+}
+
+a
+{
+    color: #ffffff;
+}
+
+.name
+{
+    color: #ffffff;
+}
+
+p
+{
+    color: #ffffff;
+}
+
+div
+{
+    color: #ffffff;
+}
+
+#email
+{
+    text-decoration: none;
+    float: right;
+    color:#ffffff;
+}
+
+.footer
+{
+    margin-top: 5% !important;
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width: 479px)
+{
+    .footer
+    {
+        margin-top: 35% !important;
+    }
+}
+
+@media screen and (orientation: portrait)
+{
+    #portrait
+    {
+        display: none;
+    }      
+}
