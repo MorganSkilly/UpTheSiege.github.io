@@ -5,40 +5,40 @@ body
 
 h5
 {
-    color: #ffffff;
+    color: #000000;
 }
 
 h4
 {
-    color: #ffffff;
+    color: #000000;
     text-align: center;
 }
 
 a
 {
-    color: #ffffff;
+    color: #000000;
 }
 
 .name
 {
-    color: #ffffff;
+    color: #000000;
 }
 
 p
 {
-    color: #ffffff;
+    color: #000000;
 }
 
 div
 {
-    color: #ffffff;
+    color: #000000;
 }
 
 #email
 {
     text-decoration: none;
     float: right;
-    color:#ffffff;
+    color:#000000;
 }
 
 .footer
